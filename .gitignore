@@ -1,0 +1,46 @@
+# 🧠 Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# 🚫 Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# 🧰 IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 🗃️ OS files
+.DS_Store
+Thumbs.db
+
+# 📦 Build / distribution
+build/
+dist/
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# 📸 Temporary and output files
+temp_face.jpg
+attendance_*.csv
+*.log
+
+# 📷 Datasets or training images (optional — uncomment if you don’t want to upload dataset)
+# dataset/
+
+# 🔐 Environment or secret files
+.env
+*.key
+*.pem
+
+# 🧪 Jupyter / Colab cache
+.ipynb_checkpoints/
