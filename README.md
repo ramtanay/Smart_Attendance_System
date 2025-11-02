@@ -1,9 +1,6 @@
 ---
 
-````markdown
-<!-- ======================= HEADER SECTION ======================= -->
-
-<h1 align="center">🤖 Smart Attendance System using DeepFace</h1>
+# 🤖 Smart Attendance System using DeepFace
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python" />
@@ -16,16 +13,16 @@
 </p>
 
 <p align="center">
-  <b>🎯 A Face Recognition based Smart Attendance System built with Python, OpenCV & DeepFace 🎯</b>  
-  <br/> Automatically marks attendance through live webcam detection and saves it to daily CSV files.
+  <b>🎯 A Face Recognition based Smart Attendance System built with Python, OpenCV & DeepFace 🎯</b><br/>
+  Automatically marks attendance through live webcam detection and saves it to daily CSV files.
 </p>
 
 ---
 
 ## 🧠 Overview
 
-The **Smart Attendance System** uses **DeepFace (ArcFace model)** for highly accurate face recognition.  
-It detects faces in real time from a webcam and logs attendance automatically — no manual input required!  
+The **Smart Attendance System** uses **DeepFace (ArcFace model)** for highly accurate face recognition.
+It detects faces in real time from a webcam and logs attendance automatically — no manual input required!
 
 📅 Each day, a new attendance file (e.g. `attendance_2025-11-02.csv`) is created automatically.
 
@@ -33,12 +30,12 @@ It detects faces in real time from a webcam and logs attendance automatically �
 
 ## 🚀 Features
 
-✅ Real-time face detection with OpenCV  
-✅ Recognition powered by DeepFace (ArcFace model)  
-✅ Automatic daily attendance CSV files  
-✅ Prevents duplicate entries per day  
-✅ Super easy to add new people — just add their images!  
-✅ Lightweight and fast  
+✅ Real-time face detection with OpenCV
+✅ Recognition powered by DeepFace (ArcFace model)
+✅ Automatic daily attendance CSV files
+✅ Prevents duplicate entries per day
+✅ Super easy to add new people — just add their images!
+✅ Lightweight and fast
 
 ---
 
@@ -58,7 +55,7 @@ Smart_Attendance_System/
 ├── app.py
 ├── requirements.txt
 └── README.md
-````
+```
 
 ---
 
@@ -149,14 +146,12 @@ You’re free to use, modify, and distribute this project with proper credit.
 ---
 
 <p align="center">
-  ⭐ If you found this project helpful, consider giving it a star on GitHub! ⭐  
-  <br/>
+  ⭐ If you found this project helpful, consider giving it a star on GitHub! ⭐<br/>
   <img src="https://img.shields.io/github/stars/ramtanay/Smart_Attendance_System?style=social" />
 </p>
 
 <p align="center">
   Made with ❤️ by <b>Ramtanay Chakraborty</b>
 </p>
-```
 
 ---
